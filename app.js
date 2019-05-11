@@ -6,6 +6,7 @@ var logger = require('morgan');
 
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
+var goRouter = require('./routes/go'); // go.js 를 찾아갑니다. 결국 js 가 모든걸 해주죠
 
 var app = express();
 
@@ -21,6 +22,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', indexRouter);
 app.use('/users', usersRouter);
+app.use('/go', goRouter); // 잠시 추가 한 것입니다 .. 
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
