@@ -12,8 +12,8 @@ var http = require('http');
  * Get port from environment and store in Express.
  */
 
-var port = normalizePort(process.env.PORT || '3000'); // 포트 번호
-app.set('port', port);
+var port = normalizePort(process.env.PORT || '3000'); // 포트 번호 입니다
+app.set('port', port); // express 셋팅 설정 입니다
 
 /**
  * Create HTTP server.
