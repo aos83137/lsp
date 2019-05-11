@@ -15,4 +15,4 @@
        3) 실행을 위한 DB 백업파일(mysqldump 이용): sql파일
 ![Kayak][logo]
 
-[logo]: http://www.gstatic.com/webp/gallery/2.jpg "To neko"
+[logo]: ./publick/images/neko.jpg "this neko."
