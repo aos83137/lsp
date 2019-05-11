@@ -12,7 +12,7 @@ var http = require('http');
  * Get port from environment and store in Express.
  */
 
-var port = normalizePort(process.env.PORT || '3000'); // 포트 번호 입니다
+var port = normalizePort(process.env.PORT || '3000'); // 포트 번호 입니다 오호~!신기하군양!!
 app.set('port', port); // express 셋팅 설정 입니다
 
 /**
