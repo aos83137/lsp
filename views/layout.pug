@@ -4,4 +4,26 @@ html
     title= title
     link(rel='stylesheet', href='/stylesheets/style.css')
   body
-    block content
+    header
+      #header_title lsp
+    nav
+      ul#menu_bar
+        li 
+          a(href="")#home_button HOME
+        li 
+          a(href="")#member_button MEMBER
+        li
+          a(href="")#QnA_button QnA
+        li
+          a(href="")#signIn_button SignIn
+        li
+          a(href="")#signUp_button SignUp
+    wrap
+      content
+        block content
+    footer
+      #footer_info 
+      p 제작 : 안장전 
+      p YongGin
+
+        
