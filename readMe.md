@@ -15,4 +15,4 @@
        3) 실행을 위한 DB 백업파일(mysqldump 이용): sql파일
 ![Kayak][logo]
 
-[logo]: https://w.namu.la/s/207853edaf4aaccae32368391950e32055996a62910bcc205e43ae799903b45832112bbbb8d7d3fb7fc108d61d2465e251c2959fd7bb4ca65099624d7d77f8f3eaad6a4abda55a477a8e28d42bb768fcd6be2cabbb81a415dfbd0738bf99ca92 "To neko"
+[logo]: http://www.gstatic.com/webp/gallery/2.jpg "To neko"
