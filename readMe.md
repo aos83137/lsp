@@ -16,3 +16,6 @@
 ![Kayak][logo]
 
 [logo]: ./public/images/neko.jpg "this neko."
+
+
+gitをよくわからなくて台無しになりました
